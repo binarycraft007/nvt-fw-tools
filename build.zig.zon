@@ -1,0 +1,12 @@
+.{
+    .name = .nvt_fw_tools,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.17.1",
+    .paths = .{
+        "src",
+        "include",
+        "build.zig",
+        "build.zig.zon",
+    },
+    .fingerprint = 0x10239e5d871d94c3,
+}
